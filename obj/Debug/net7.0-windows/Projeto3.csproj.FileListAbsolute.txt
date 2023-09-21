@@ -1,0 +1,42 @@
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.exe
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.deps.json
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.runtimeconfig.json
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.dll
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.pdb
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\ReaLTaiizor.dll
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.AssemblyReference.cache
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.FormPrincipal.resources
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.GenerateResource.cache
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.AssemblyInfoInputs.cache
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.AssemblyInfo.cs
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.CoreCompileInputs.cache
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.CopyComplete
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.dll
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\Projeto3.dll
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.pdb
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.genruntimeconfig.cache
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\Projeto3.dll
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.Properties.Resources.resources
+C:\POEE\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.FormAluno.resources
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.exe
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.deps.json
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.runtimeconfig.json
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\Projeto3.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\ReaLTaiizor.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.FormAluno.resources
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.FormPrincipal.resources
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.Properties.Resources.resources
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.AssemblyInfo.cs
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.csproj.CopyComplete
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\Projeto3.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Projeto3.genruntimeconfig.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\Aula 3\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\Projeto3.dll
